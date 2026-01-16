@@ -1,3 +1,6 @@
 # These will be installed to the python 2 environment
 numpy
 matplotlib
+langchain
+langchain-openai
+python-dotenv
